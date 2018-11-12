@@ -1,0 +1,4 @@
+Notes git
+---------
+
+git help pour afficher l'aide
