@@ -1,5 +1,5 @@
-Notes Formation git
--------------------
+Notes Formation git (master)
+----------------------------
 
 `git help` pour afficher l'aide
 
