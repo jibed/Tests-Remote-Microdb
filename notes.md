@@ -6,3 +6,5 @@ Notes Formation git
 `git add` puis `git commit` pour *créer* une version
 
 Voir `commitlint` pour *valider* des messages de `commitlint`
+
+git rebase -i => rebase interactif
